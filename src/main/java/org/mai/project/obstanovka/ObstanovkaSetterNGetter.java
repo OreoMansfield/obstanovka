@@ -1,6 +1,8 @@
+package org.mai.project.obstanovka;
+
 import java.util.Scanner;
 
-public class getternsetter {
+public class ObstanovkaSetterNGetter{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
